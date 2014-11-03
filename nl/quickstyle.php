@@ -2,7 +2,7 @@
 
 /**
 *
-* @package Quick Style [English]
+* @package Quick Style [Dutch]
 * @copyright (c) 2014 PayBas
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 * Dutch translation by Dutch Translators (https://github.com/dutch-translators)
