@@ -5,6 +5,7 @@
 * @package Quick Style [English]
 * @copyright (c) 2014 PayBas
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 *
 * Based on the original Prime Quick Style by Ken F. Innes IV (primehalo)
 *
@@ -36,5 +37,5 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'QUICK_STYLE'	=> 'Style',
+	'QUICK_STYLE'	=> 'Stijl',
 ));
