@@ -2,9 +2,10 @@
 
 /**
 *
-* @package Quick Style [English]
+* @package Quick Style [Dutch]
 * @copyright (c) 2014 PayBas
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 *
 * Based on the original Prime Quick Style by Ken F. Innes IV (primehalo)
 *
@@ -37,11 +38,11 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'QUICK_STYLE'						=> 'Quick Style',
-	'QUICK_STYLE_EXPLAIN'				=> 'Adds a style dropdown box to the header of every page for quickly switching between styles. Based on the original Prime Quick Style by primehalo.',
-	'QUICK_STYLE_SETTINGS'				=> 'Quick Style settings',
-	'QUICK_STYLE_DEFAULT_LOC'			=> 'Use default template location',
-	'QUICK_STYLE_DEFAULT_LOC_EXPLAIN'	=> 'By default, the Quick Style extension will insert the style switcher to the right of the breadcrumb navigation in the header. Setting this to "no" will allow you to include the quickstyle_event somewhere else in your style.',
-	'QUICK_STYLE_ALLOW_GUESTS'			=> 'Allow guests to change styles',
-	'QUICK_STYLE_ALLOW_GUESTS_EXPLAIN'	=> 'This setting will allow guest visitors to change styles as well. Since they are not logged-in, a cookie will be used to remember their selected style.',
-	'QUICK_STYLE_OVERRIDE_ENABLED'		=> 'The "Override user style" configuration setting is enabled on this board. The style switcher will not work until you disable it.',
+	'QUICK_STYLE_EXPLAIN'				=> 'Voegt een stijl dropdown box toe aan de header van elke pagina, zodat je snel van stijl kan wisselen. Gebaseerd op het originele Prime Quick Style van primehalo.',
+	'QUICK_STYLE_SETTINGS'				=> 'Quick Style instellingen',
+	'QUICK_STYLE_DEFAULT_LOC'			=> 'Gebruik standaard template locatie',
+	'QUICK_STYLE_DEFAULT_LOC_EXPLAIN'	=> 'Standaard zal de Quick Style extensie, de stijl-verwisselaar rechts van de broodkruimel navigatie in de header plaatsen. Deze optie op "nee" instellen geeft je de mogelijkheid om de quickstyle_event op zelf uitgekozen plaats te plaatsen.',
+	'QUICK_STYLE_ALLOW_GUESTS'			=> 'Sta gasten toe om van stijl te veranderen',
+	'QUICK_STYLE_ALLOW_GUESTS_EXPLAIN'	=> 'Deze instelling staat gasten toe om van stijl te wisselen. Aangezien gasten niet zijn aangemeld, zal er een cookie gebruikt worden om de gekozen stijl te onthouden.',
+	'QUICK_STYLE_OVERRIDE_ENABLED'		=> 'De "overschrijf gebruikersstijl" configuratie-instelling is ingeschakeld op dit forum. De stijl-verwisselaar zal niet werken totdat je deze instelling uitschakeld.',
 ));
