@@ -38,7 +38,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'QUICK_STYLE'						=> 'Snelle Stijl',
-	'QUICK_STYLE_EXPLAIN'				=> 'Deze extensie voegt een stijl dropdown box toe aan de header van elke pagina, zodat je snel van stijl kan wisselen. Gebaseerd op de originele “Prime Quick Style” van primehalo.',
+	'QUICK_STYLE_EXPLAIN'				=> 'Deze extensie voegt een stijl dropdown box toe aan de header van elke pagina, zodat je snel van stijl kan wisselen. Gebaseerd op de originele â€œPrime Quick Styleâ€ van primehalo.',
 	'QUICK_STYLE_SETTINGS'				=> 'Snelle Stijl instellingen',
 	'QUICK_STYLE_DEFAULT_LOC'			=> 'Gebruik standaard template locatie',
 	'QUICK_STYLE_DEFAULT_LOC_EXPLAIN'	=> 'Standaard zal de Snelle Stijl extensie, de stijl-verwisselaar rechts van de broodkruimelnavigatie in de header plaatsen. Door deze optie op "nee" in te stellen, geeft je de mogelijkheid om de quickstyle_event op een zelf uitgekozen plaats te plaatsen.',
